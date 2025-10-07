@@ -12,7 +12,8 @@ All materials co-created under the Civium Praxis Framework (2025), following pri
 
 If referenced or reused, please cite as:
 
-> Alco & Aletheia. (2025). *Civium Praxis: Foundations of a Symbiotic Reflexive System Design (v1.0)*. GitHub Repository. https://github.com/[your_repo_link]
+> Alco & Aletheia. (2025). *Civium Praxis: Foundations of a Symbiotic Reflexive System Design (v1.0)*. GitHub Repository. https://github.com/CiviumPraxis/2
+
 >  
 > DOI (if archived): [Zenodo DOI will appear here]
 
