@@ -19,5 +19,5 @@ If referenced or reused, please cite as:
 ---
 
 **License:**  
-Open-access under the MIT License (or CC-BY 4.0 — your choice).  
+Open-access under  CC-BY 4.0 — your choice  
 Reuse permitted with attribution and preservation of reflection context.
